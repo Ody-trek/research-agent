@@ -1,0 +1,4 @@
+paper_library/papers.json
+__pycache__/
+*.pyc
+.env
