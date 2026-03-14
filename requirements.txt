@@ -1,5 +1,7 @@
-anthropic>=0.40.0
+anthropic>=0.50.0
 arxiv>=2.1.0
 requests>=2.31.0
 networkx>=3.2.0
 matplotlib>=3.7.0
+# VLA 综述流水线（vla_pipeline/）无需额外依赖
+# GitHub 发布使用系统 git CLI，无需 gitpython
